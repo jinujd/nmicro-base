@@ -1,0 +1,23 @@
+{
+  "name": "nmicro-base",
+  "version": "1.0.0",
+  "description": "Service, Router and other base packages for nmicro base",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinujd/nmicro-base.git"
+  },
+  "keywords": [
+    "nmicro",
+    "nmicro-base"
+  ],
+  "author": "Jinu Joseph Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinujd/nmicro-base/issues"
+  },
+  "homepage": "https://github.com/jinujd/nmicro-base#readme"
+}
